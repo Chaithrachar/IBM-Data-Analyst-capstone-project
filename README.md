@@ -1,2 +1,1 @@
-# IBM-Data-Analyst-capstone-project
-# Collecting data using API
+# Collecting data using API's
